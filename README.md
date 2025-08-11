@@ -43,10 +43,6 @@ Sou um desenvolvedor apaixonado por tecnologia com mais de **10 anos de experiê
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarthurdev&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oarthurdev&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
