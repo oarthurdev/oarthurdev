@@ -52,7 +52,7 @@ Sou um desenvolvedor apaixonado por tecnologia com mais de **10 anos de experiê
 ## 🎯 Projetos em Destaque
 
 ### 🔍 Sistema de Ranking de Corretores para Imobiliarias
-Sistema completo de busca com Elasticsearch, React e TypeScript
+Sistema de ranking de pontuação geral e individual de vendedores integrado com a Kommo CRM
 - **Tech:** React, TypeScript, Node.js, PostgreSQL
 - **Features:** Arquitetura Multi-Empresa, Classificação geral, Métricas resumidas da empresa, Atualização em tempo real dos dados, Modo TV.
 
