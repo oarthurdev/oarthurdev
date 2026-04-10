@@ -4,7 +4,7 @@
 
 ### 💻 Código, café e resolver problema até funcionar
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;+10%2B+anos+codando;Node.js+%7C+TypeScript;+Automação+e+sistemas+reais" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;10%2B+anos+de+experi%C3%AAncia;Especialista+em+Node.js+%26+TypeScript;Apaixonado+por+tecnologia" alt="Typing SVG" />
 
 </div>
 
