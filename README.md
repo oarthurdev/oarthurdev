@@ -1,79 +1,125 @@
-
-# 👋 Olá, eu sou Arthur Wagenknecht!
+# ⚡ Arthur Wagenknecht
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;10%2B+anos+de+experi%C3%AAncia;Especialista+em+Node.js+%26+TypeScript;Apaixonado+por+tecnologia" alt="Typing SVG" />
+
+### 💻 Código, café e resolver problema até funcionar
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;+10%2B+anos+codando;Node.js+%7C+TypeScript;+Automação+e+sistemas+reais" />
+
 </div>
 
-## 🚀 Sobre mim
+---
 
-Sou um desenvolvedor apaixonado por tecnologia com mais de **10 anos de experiência** criando soluções digitais inovadoras. Especializo-me em desenvolvimento full-stack com foco em **JavaScript/TypeScript**, sempre buscando as melhores práticas e tecnologias mais modernas.
+## 👨‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando com **React**, **Node.js** e **PostgreSQL**
-- 🌱 Sempre aprendendo novas tecnologias e metodologias
-- 💼 Experiência sólida em arquitetura de sistemas e desenvolvimento de APIs
-- ⚡ Apaixonado por código limpo e performance
+Comecei a programar porque curtia tecnologia. Continuei porque gosto de resolver problema difícil.
 
-## 🛠️ Stack Tecnológica
+Já são mais de **10 anos mexendo com código**, passando por frontend, backend, banco, integrações e infra. Hoje, o que eu mais gosto é construir sistemas úteis de verdade — daqueles que ajudam no dia a dia, economizam tempo e aguentam crescer sem desmontar no caminho.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+Curto especialmente:
+- automatizar processo chato
+- integrar sistemas que não nasceram pra se entender
+- organizar backend de um jeito que faça sentido
+- pegar problema bagunçado e transformar em solução simples
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+No fim, gosto mesmo é de fazer a coisa funcionar bem.
 
-### Ferramentas & DevOps
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+---
 
-## 📊 Estatísticas GitHub
+## ⚙️ Stack principal
+
+### 🖥️ Frontend
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript)
+![Tailwind](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwind-css)
+
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql)
+![Prisma](https://img.shields.io/badge/Prisma-0f172a?style=for-the-badge&logo=prisma)
+
+### 🚀 Dev & Infra
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux)
+
+---
+
+## 📊 Status
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oarthurdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oarthurdev&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=oarthurdev&theme=highcontrast&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=oarthurdev&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=oarthurdev&theme=react-dark&hide_border=true&bg_color=00000000"/>
+
 </div>
 
-## 🏆 GitHub Trophies
+---
+
+## 🏆 Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oarthurdev&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oarthurdev&theme=github_dark" />
+
+<br /><br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oarthurdev&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oarthurdev&theme=github_dark" />
+
 </div>
 
-## 🎯 Projetos em Destaque
+---
 
-### 🔍 Sistema de Ranking de Corretores para Imobiliarias
-Sistema de ranking de pontuação geral e individual de vendedores integrado com a Kommo CRM
-- **Tech:** React, TypeScript, Node.js, PostgreSQL
-- **Features:** Arquitetura Multi-Empresa, Classificação geral, Métricas resumidas da empresa, Atualização em tempo real dos dados, Modo TV.
+## 🧪 O que eu construo
 
-### 📊 Sistema de Sincronização de dados entre KommoCRM e Banco de Dados
-Sistema de sincronização contínua entre o Kommo CRM e uma base de dados
-- **Tech:** Python, Flask, Pandas
-- **Features:** Sincronização Multi-empresa, Sync Incremental, Rate Limiting Inteligente, Recuperação de Falhas
+### 🏢 Ranking para times comerciais
+Sistema de performance pra corretores integrado com CRM
 
-## 📫 Vamos nos Conectar!
+- Multi-empresa
+- Ranking em tempo real
+- Dashboard estilo TV
+- Métricas que fazem sentido no dia a dia
+
+---
+
+### 🔄 Sync entre CRM e banco
+Engine de sincronização contínua
+
+- Sync incremental
+- Retry automático
+- Controle de rate limit
+- Recuperação de falhas sem dor de cabeça
+
+---
+
+## 🧭 Hoje eu tô mais focado em
+
+- IA aplicada em automação
+- Integrações mais pesadas
+- Backend bem estruturado
+- Sistemas que aguentam crescer
+
+---
+
+## 📬 Contato
 
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oarthurdev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@oarthur.dev)
+
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github)](https://github.com/oarthurdev)
+[![Email](https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail)](mailto:contato@oarthur.dev)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=oarthurdev&color=blue&style=flat-square&label=Visitors" alt="Profile Views" />
-  
-  **"Transformando ideias em código, código em soluções."** 💻✨
+
+<img src="https://komarev.com/ghpvc/?username=oarthurdev&color=00f7ff&style=flat-square"/>
+
+### 💬 No fim, é só sobre resolver problema do jeito certo.
+
 </div>
