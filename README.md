@@ -74,7 +74,7 @@ No fim, gosto mesmo é de fazer a coisa funcionar bem.
 
 ---
 
-## 🧪 O que eu construo
+## 🧪 Projetos recentes
 
 ### 🏢 Ranking para times comerciais
 Sistema de performance pra corretores integrado com CRM
