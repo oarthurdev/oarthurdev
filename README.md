@@ -51,8 +51,6 @@ No fim, gosto mesmo é de fazer a coisa funcionar bem.
 
 <img height="170" src="https://streak-stats.demolab.com?user=oarthurdev&theme=highcontrast&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=oarthurdev&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=00000000"/>
-
 <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=oarthurdev&theme=react-dark&hide_border=true&bg_color=00000000"/>
 
 </div>
